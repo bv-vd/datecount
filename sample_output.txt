@@ -1,0 +1,26 @@
+
+Page: 'https://en.wikipedia.org/wiki/September_11_attacks'
+564 dates found
+253 are unique
+
+Most frequently appeared:
+  164 : September 11        
+   26 : September 11, 2001  
+   17 : September 20        
+   15 : April 20            
+    9 : March 20            
+    8 : May 20              
+    7 : October 20          
+    6 : Sep 11              
+    5 : November 3, 2014    
+    4 : February 19, 2002   
+    4 : September 17, 2001  
+    4 : Sept. 11            
+    4 : August 20           
+    4 : September 12, 2001  
+    3 : November 20         
+    3 : July 22, 2004       
+    3 : September 13, 2001  
+    3 : November 24, 2002   
+    3 : January 20          
+    3 : September 20, 2001  
